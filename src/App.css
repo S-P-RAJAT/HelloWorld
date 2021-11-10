@@ -9,3 +9,7 @@ img{
   width: 25%;
   cursor: pointer;
 }
+
+input{
+  margin-left: 40%;
+}
