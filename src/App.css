@@ -13,3 +13,10 @@ img{
 input{
   margin-left: 40%;
 }
+
+.error-output{
+  margin-left: 10%;
+  font-size: 12px;
+  font-style: italic;
+  color: red;
+}
